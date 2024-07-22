@@ -70,4 +70,4 @@ If you find our work useful, please kindly cite as:
 ```
 
 ## Acknowledgement
-* The codebase is developed based on [3D-GS](https://github.com/graphdeco-inria/gaussian-splatting) (Kerbl et al.), [4D-GS](https://github.com/hustvl/4DGaussians) (Wu et al.), [SuGaR](https://github.com/Anttwo/SuGaR) (Guédon et al.), [EndoNeRF](https://github.com/med-air/EndoNeRF) (Wang et al.), and [EndoGS](https://github.com/HKU-MedAI/EndoGS) (Zhu et al.).
+* The codebase is developed based on [3D-GS](https://github.com/graphdeco-inria/gaussian-splatting) (Kerbl et al.), [4D-GS](https://github.com/hustvl/4DGaussians) (Wu et al.), [SuGaR](https://github.com/Anttwo/SuGaR) (Guédon et al.), [EndoNeRF](https://github.com/med-air/EndoNeRF) (Wang et al.), [unimatch](https://github.com/autonomousvision/unimatch/tree/master), and [EndoGS](https://github.com/HKU-MedAI/EndoGS) (Zhu et al.).
