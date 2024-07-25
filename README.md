@@ -19,7 +19,7 @@ superior rendering quality.
 
 Clone this repository and install packages:
 ```
-git clone https://github.com/HKU-MedAI/EndoGS.git
+git clone https://github.com/HKU-MedAI/EndoGS](https://github.com/zhaohaoyu376/HFGS.git
 conda env create --file environment.yml
 conda activate gs
 pip install git+https://github.com/ingra14m/depth-diff-gaussian-rasterization.git@depth
